@@ -1,2 +1,2 @@
 # 👋 Hi, I’m rnaudah.
-### [저의 개발현황.](https://github.com/users/rnaudah/projects/2)
+### 개발을 좋아하는 학생입니다!
