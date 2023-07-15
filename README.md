@@ -1,3 +1,3 @@
 # lifecap 🛟
-- student developer
+- Student Developer
 - Typescript, Python
